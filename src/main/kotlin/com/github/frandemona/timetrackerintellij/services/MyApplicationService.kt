@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.frandemona.timetrackerintellij.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.frandemona.timetrackerintellij.MyBundle
 
 class MyApplicationService {
 
